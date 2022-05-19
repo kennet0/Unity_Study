@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CZETwvRdLqBRwx/dB9f/vbGwXyowzM74LrOHjXOncYgpVHKkkHy4TEOSXETC0vZDQ2ZLijfe4lQ7dr4kNVzZXQ==",
+  "dgSpecHash": "+Mekx7cASqL7Tzda/gGHl2kLoPdkOqul+ht3guzVSo/T+9cnKyj3uZCAQxQc+y5Dwn8wWTt292hmrO+9L9EIww==",
   "success": true,
-  "projectFilePath": "/Users/janghan/Desktop/GitHubDesktop/Unity_Study/CSharp_Mac/CSharp_Mac/CSharp_Mac.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Jhan\\Desktop\\Github_Desktop\\Unity_Study\\CSharp_Mac\\CSharp_Mac\\CSharp_Mac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jhan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Jhan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Jhan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jhan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
