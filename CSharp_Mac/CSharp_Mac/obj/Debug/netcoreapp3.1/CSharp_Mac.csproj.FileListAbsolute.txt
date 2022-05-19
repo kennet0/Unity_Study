@@ -1,0 +1,13 @@
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/CSharp_Mac/CSharp_Mac/bin/Debug/netcoreapp3.1/CSharp_Mac.deps.json
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/CSharp_Mac/CSharp_Mac/bin/Debug/netcoreapp3.1/CSharp_Mac.runtimeconfig.json
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/CSharp_Mac/CSharp_Mac/bin/Debug/netcoreapp3.1/CSharp_Mac.runtimeconfig.dev.json
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/CSharp_Mac/CSharp_Mac/bin/Debug/netcoreapp3.1/CSharp_Mac.dll
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/CSharp_Mac/CSharp_Mac/bin/Debug/netcoreapp3.1/CSharp_Mac.pdb
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/CSharp_Mac/CSharp_Mac/obj/Debug/netcoreapp3.1/CSharp_Mac.csproj.AssemblyReference.cache
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/CSharp_Mac/CSharp_Mac/obj/Debug/netcoreapp3.1/CSharp_Mac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/CSharp_Mac/CSharp_Mac/obj/Debug/netcoreapp3.1/CSharp_Mac.AssemblyInfoInputs.cache
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/CSharp_Mac/CSharp_Mac/obj/Debug/netcoreapp3.1/CSharp_Mac.AssemblyInfo.cs
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/CSharp_Mac/CSharp_Mac/obj/Debug/netcoreapp3.1/CSharp_Mac.csproj.CoreCompileInputs.cache
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/CSharp_Mac/CSharp_Mac/obj/Debug/netcoreapp3.1/CSharp_Mac.dll
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/CSharp_Mac/CSharp_Mac/obj/Debug/netcoreapp3.1/CSharp_Mac.pdb
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/CSharp_Mac/CSharp_Mac/obj/Debug/netcoreapp3.1/CSharp_Mac.genruntimeconfig.cache
