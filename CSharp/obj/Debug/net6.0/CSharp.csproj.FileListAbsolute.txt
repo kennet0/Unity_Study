@@ -1,0 +1,15 @@
+C:\Users\Jhan\Desktop\Github_Desktop\Unity_Study\CSharp\bin\Debug\net6.0\CSharp.exe
+C:\Users\Jhan\Desktop\Github_Desktop\Unity_Study\CSharp\bin\Debug\net6.0\CSharp.deps.json
+C:\Users\Jhan\Desktop\Github_Desktop\Unity_Study\CSharp\bin\Debug\net6.0\CSharp.runtimeconfig.json
+C:\Users\Jhan\Desktop\Github_Desktop\Unity_Study\CSharp\bin\Debug\net6.0\CSharp.dll
+C:\Users\Jhan\Desktop\Github_Desktop\Unity_Study\CSharp\bin\Debug\net6.0\CSharp.pdb
+C:\Users\Jhan\Desktop\Github_Desktop\Unity_Study\CSharp\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+C:\Users\Jhan\Desktop\Github_Desktop\Unity_Study\CSharp\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhan\Desktop\Github_Desktop\Unity_Study\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\Jhan\Desktop\Github_Desktop\Unity_Study\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+C:\Users\Jhan\Desktop\Github_Desktop\Unity_Study\CSharp\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jhan\Desktop\Github_Desktop\Unity_Study\CSharp\obj\Debug\net6.0\CSharp.dll
+C:\Users\Jhan\Desktop\Github_Desktop\Unity_Study\CSharp\obj\Debug\net6.0\refint\CSharp.dll
+C:\Users\Jhan\Desktop\Github_Desktop\Unity_Study\CSharp\obj\Debug\net6.0\CSharp.pdb
+C:\Users\Jhan\Desktop\Github_Desktop\Unity_Study\CSharp\obj\Debug\net6.0\CSharp.genruntimeconfig.cache
+C:\Users\Jhan\Desktop\Github_Desktop\Unity_Study\CSharp\obj\Debug\net6.0\ref\CSharp.dll
