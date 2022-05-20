@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{97046F57-498E-4A22-9B0C-403B3CDF8F73}|Default">
+  <MonoDevelop.Ide.ItemProperties.TextRPG2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextRPG2/Game.cs">
+    <Files>
+      <File FileName="TextRPG2/Program.cs" Line="17" Column="1" />
+      <File FileName="TextRPG2/Player.cs" />
+      <File FileName="TextRPG2/Monster.cs" />
+      <File FileName="TextRPG2/Creature.cs" />
+      <File FileName="TextRPG2/Game.cs" Line="121" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TextRPG2" expanded="True">
+            <Node name="TextRPG2" expanded="True">
+              <Node name="Game.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

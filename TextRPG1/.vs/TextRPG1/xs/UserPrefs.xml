@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AB300808-5FDF-4C00-8351-36F3FD33585E}|Default">
+  <MonoDevelop.Ide.ItemProperties.TextRPG1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextRPG1/Program.cs">
+    <Files>
+      <File FileName="TextRPG1/Program.cs" Line="15" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TextRPG1" expanded="True">
+            <Node name="TextRPG1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/janghan/Projects/TextRPG2/TextRPG2/bin/Debug/netcoreapp3.1/TextRPG2.deps.json
+/Users/janghan/Projects/TextRPG2/TextRPG2/bin/Debug/netcoreapp3.1/TextRPG2.runtimeconfig.json
+/Users/janghan/Projects/TextRPG2/TextRPG2/bin/Debug/netcoreapp3.1/TextRPG2.runtimeconfig.dev.json
+/Users/janghan/Projects/TextRPG2/TextRPG2/bin/Debug/netcoreapp3.1/TextRPG2.dll
+/Users/janghan/Projects/TextRPG2/TextRPG2/bin/Debug/netcoreapp3.1/TextRPG2.pdb
+/Users/janghan/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.csproj.AssemblyReference.cache
+/Users/janghan/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janghan/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.AssemblyInfoInputs.cache
+/Users/janghan/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.AssemblyInfo.cs
+/Users/janghan/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.csproj.CoreCompileInputs.cache
+/Users/janghan/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.dll
+/Users/janghan/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.pdb
+/Users/janghan/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.genruntimeconfig.cache
