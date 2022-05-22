@@ -1,0 +1,13 @@
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Algorithm/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.csproj.AssemblyReference.cache
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Algorithm/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Algorithm/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.AssemblyInfoInputs.cache
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Algorithm/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.AssemblyInfo.cs
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Algorithm/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.csproj.CoreCompileInputs.cache
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Algorithm/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.deps.json
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Algorithm/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.runtimeconfig.json
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Algorithm/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.runtimeconfig.dev.json
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Algorithm/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.dll
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Algorithm/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.pdb
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Algorithm/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.dll
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Algorithm/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.pdb
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Algorithm/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.genruntimeconfig.cache
