@@ -8,12 +8,12 @@ namespace Algorithm
         {
 
             Board board = new Board();
-            board.Initialize();
+            board.Initialize(25);
 
             Console.CursorVisible = false;
 
             const int WAIT_TICK = 1000 / 60;
-            const char CIRCLE = '\u25cf';
+            
 
             int lastTick = 0;
             while(true)
@@ -26,17 +26,10 @@ namespace Algorithm
                 lastTick = currentTick;
                 #endregion
 
+                //렌더링
                 Console.SetCursorPosition(0, 0);
-                for (int i = 0; i < 25; i++)
-                {
-                    for (int j = 0; j < 25; j++)
-                    {
-                        Console.Write(CIRCLE);
-                    }
-                    Console.ForegroundColor = ConsoleColor.Green;
-                    Console.BackgroundColor = ConsoleColor.Black;                  
-                    Console.WriteLine();
-                }
+                board.Render();
+                
             }
         }
     }
