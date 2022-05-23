@@ -7,20 +7,22 @@ namespace Algorithm
         public TileType[,] _tile;
         public int _size;
 
+        Player _player;
+
         public enum TileType
         {
             Empty,
             Wall,
         }
 
-        public void Initialize(int size)
+        public void Initialize(int size, Player player)
         {
             if (size % 2 == 0)
                 return;
             _tile = new TileType[size, size];
             _size = size;
 
-
+            _player = player;
 
             //Maze for Programmers
 
@@ -148,14 +150,20 @@ namespace Algorithm
             {
                 for (int x = 0; x < _size; x++)
                 {
-                    Console.ForegroundColor = GetTileColor(_tile[y, x]);
+                    //플레이어 좌표를 갖고와서, 그좌표랑 현재 y,x가 일치하면 플레이어 전용상으로 표시
 
+                    if (y == _player.PosY && x == _player.PosX)
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                    else
+                        Console.ForegroundColor = GetTileColor(_tile[y, x]);
+                                    
                     Console.Write(CIRCLE);
                 }
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.BackgroundColor = ConsoleColor.Black;
                 Console.WriteLine();
             }
+
             Console.ForegroundColor = prevColor;
         }
 

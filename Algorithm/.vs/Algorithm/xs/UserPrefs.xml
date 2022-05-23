@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{8A81EA60-CA12-4B12-BD6F-879FF92F8F1B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Algorithm/Board.cs">
     <Files>
-      <File FileName="Algorithm/Program.cs" Line="10" Column="13" />
-      <File FileName="Algorithm/Board.cs" Line="110" Column="29" />
-      <File FileName="Algorithm/Board.cs" Line="1" Column="1" />
+      <File FileName="Algorithm/Program.cs" Line="12" Column="40" />
+      <File FileName="Algorithm/Board.cs" Line="114" Column="1" />
+      <File FileName="Algorithm/Board.cs" Line="159" Column="20" />
+      <File FileName="Algorithm/Player.cs" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
