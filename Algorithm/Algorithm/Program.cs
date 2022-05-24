@@ -10,11 +10,11 @@ namespace Algorithm
             Board board = new Board();
             Player player = new Player();
             board.Initialize(25, player);
+            player.Initialize(1, 1, board);
 
             Console.CursorVisible = false;
 
-            const int WAIT_TICK = 1000 / 60;
-            
+            const int WAIT_TICK = 1000 / 30;
 
             int lastTick = 0;
             while(true)
@@ -24,10 +24,16 @@ namespace Algorithm
                 int currentTick = System.Environment.TickCount & Int32.MaxValue;              
                 if (currentTick - lastTick < WAIT_TICK)
                     continue;
+                int deltaTick = currentTick - lastTick;
                 lastTick = currentTick;
                 #endregion
 
-                //렌더링
+                // 입력
+
+                // 로직
+                player.Update(deltaTick);
+
+                // 렌더링
                 Console.SetCursorPosition(0, 0);
                 board.Render();
                 

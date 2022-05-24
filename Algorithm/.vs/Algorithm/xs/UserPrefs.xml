@@ -3,8 +3,7 @@
     <Files>
       <File FileName="Algorithm/Program.cs" Line="12" Column="40" />
       <File FileName="Algorithm/Board.cs" Line="114" Column="1" />
-      <File FileName="Algorithm/Board.cs" Line="159" Column="20" />
-      <File FileName="Algorithm/Player.cs" Line="10" Column="1" />
+      <File FileName="Algorithm/Player.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
