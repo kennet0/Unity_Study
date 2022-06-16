@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1EAA1C34-0B29-4466-9552-FD4CF0F2A20A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Excercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Algorithm/Algorithm/Player.cs">
+    <Files>
+      <File FileName="Excercise/Program.cs" Line="11" Column="13" />
+      <File FileName="../Algorithm/Algorithm/Board.cs" Line="1" Column="1" />
+      <File FileName="../Algorithm/Algorithm/Player.cs" Line="64" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Excercise" expanded="True">
+            <Node name="Algorithm" expanded="True">
+              <Node name="Player.cs" selected="True" />
+            </Node>
+            <Node name="Excercise" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Algorithm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
