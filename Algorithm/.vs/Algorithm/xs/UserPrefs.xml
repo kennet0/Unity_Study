@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Algorithm/Player.cs">
     <Files>
       <File FileName="Algorithm/Program.cs" Line="22" Column="19" />
-      <File FileName="Algorithm/Board.cs" Line="86" Column="27" />
-      <File FileName="Algorithm/Player.cs" Line="43" Column="40" />
+      <File FileName="Algorithm/Board.cs" />
+      <File FileName="Algorithm/Player.cs" Line="43" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
