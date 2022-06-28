@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{8A81EA60-CA12-4B12-BD6F-879FF92F8F1B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithm/Player.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Excercise/Excercise/Program.cs">
     <Files>
       <File FileName="Algorithm/Program.cs" Line="22" Column="19" />
       <File FileName="Algorithm/Board.cs" />
-      <File FileName="Algorithm/Player.cs" Line="43" Column="10" />
+      <File FileName="Algorithm/Player.cs" Line="57" Column="1" />
+      <File FileName="../Excercise/Excercise/Program.cs" Line="25" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Algorithm" expanded="True">
-            <Node name="Algorithm" expanded="True">
-              <Node name="Player.cs" selected="True" />
+            <Node name="Algorithm" expanded="True" />
+            <Node name="Excercise" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

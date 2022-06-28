@@ -5,12 +5,12 @@ class Graph
 {
     int[,] adj = new int[6, 6]
     {
-            {0, 1, 0, 1, 0, 0 },
-            {1, 0, 1, 1, 0, 0 },
-            {0, 1, 0, 0, 0, 0 },
-            {1, 1, 0, 0, 1, 0 },
-            {0, 0, 0, 1, 0, 1 },
-            {0, 0, 0, 0, 1, 0 },
+            {-1, 15, -1, 35, -1, -1 },
+            {15, 0-1 05, 10, -1, -1 },
+            {-1, 05, -1, -1, -1, -1 },
+            {35, 10, -1, -1, 05, -1 },
+            {-1, -1, -1, 05, -1, 05 },
+            {-1, -1, -1, -1, 05, -1 },
     };
 
 
@@ -27,42 +27,70 @@ class Graph
     };
 
 
-    #region DFS
-    public void DFS(int now, bool[] visited)
-    {
-        Console.WriteLine(now);
-        visited[now] = true; // 1) 우선 now부터 방문하고,
+    //#region DFS
+    //public void DFS(int now, bool[] visited)
+    //{
+    //    Console.WriteLine(now);
+    //    visited[now] = true; // 1) 우선 now부터 방문하고,
 
-        for (int next = 0; next < 6; next++)
-        {
-            if (adj[now, next] == 0) //연결되어있지 않으면 스킵
-                continue;
-            if (visited[next]) // 이미 방문 했으면 스킵.
-                continue;
-            DFS(next, visited);
-        }
-    }
-    public void DFS2(int now, bool[] visited)
-    {
-        Console.WriteLine(now);
-        visited[now] = true; // 1) 우선 now부터 방문하고,
+    //    for (int next = 0; next < 6; next++)
+    //    {
+    //        if (adj[now, next] == 0) //연결되어있지 않으면 스킵
+    //            continue;
+    //        if (visited[next]) // 이미 방문 했으면 스킵.
+    //            continue;
+    //        DFS(next, visited);
+    //    }
+    //}
+    //public void DFS2(int now, bool[] visited)
+    //{
+    //    Console.WriteLine(now);
+    //    visited[now] = true; // 1) 우선 now부터 방문하고,
 
-        foreach (int next in adj2[now])
-        {
-            if (visited[next]) // 이미 방문 했으면 스킵.
-                continue;
-            DFS2(next, visited);
-        }
-    }
+    //    foreach (int next in adj2[now])
+    //    {
+    //        if (visited[next]) // 이미 방문 했으면 스킵.
+    //            continue;
+    //        DFS2(next, visited);
+    //    }
+    //}
 
-    public void SearchAll()
+    //public void SearchAll()
+    //{
+    //    bool[] visited = new bool[6];
+    //    for (int now = 0; now < 6; now++)
+    //        if (visited[now] == false)
+    //            DFS(now, visited);
+    //}
+    //#endregion
+
+
+    public void Dijikstra(int start)
     {
         bool[] visited = new bool[6];
-        for (int now = 0; now < 6; now++)
-            if (visited[now] == false)
-                DFS(now, visited);
+        int[] distance = new int[6];
+        Array.Fill(distance, Int32.MaxValue);
+
+        distance[start] = 0;
+
+        // 가장 유력한 후보의 거리와 번호를 저장한다.
+        int closest = Int32.MaxValue;
+        int now = -1;
+        while (true)
+        {
+            //제일 좋은 후보를 찾는다 (가장 가까이에 있는)
+
+            for (int i = 0; i < 6; i++)
+            {
+                //이미 방문한 정점은 스킵
+                if (visited[i])
+                    continue;
+                //아직 발견(예약)된 적이 없거나, 기존 후보보다 멀리 있으면 스킵
+                if (distnace[i] == )
+            }    
+        }
+
     }
-    #endregion
 
     #region BFS
     public void BFS(int start)
