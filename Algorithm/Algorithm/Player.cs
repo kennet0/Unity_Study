@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 
 namespace Algorithm
 {
@@ -38,7 +39,56 @@ namespace Algorithm
             PosY = posY;
             _board = board;
 
-            BFS();
+            AStar();
+
+        }
+        struct PQNode : IComparable<PQNode>
+        {
+            public int F;
+            public int G;
+            public int Y;
+            public int X;
+
+            public int CompareTo(PQNode other)
+            {
+                if (F == other.F)
+                    return 0;
+                return F < other.F ? 1 : -1;
+                
+            }
+        }
+
+
+        void AStar()
+        {
+            // 점수 매기기
+            // F = G + H
+            // F = 최종점수 (작을수록 좋음 , 경로에따라 달라짐)
+            // G = 시작점에서 해당 좌표까지 이동하는데 드는 비용(작을 수록 좋음, 경로에 따라 달라짐)
+            // H = 목적지에서 얼마나 가까운지 (작을수록 좋음, 고정)
+
+            // (y,x) 이미 방문했는지 여부(방문 = closed 상태)
+            bool[,] closed = new bool[_board.Size, _board.Size]; // CloseList
+
+            // (y,x) 가는 길을 한 번이라도 발견했는지
+            // 발견 X => MaxValue
+            // 발견 O => F = G + H
+            int[,] open = new int[_board.Size, _board.Size]; //OpenList
+            for (int y = 0; y < _board.Size; y++)
+                for (int x = 0; x < _board.Size; x++)
+                    open[y, x] = Int32.MaxValue;
+
+            // 오픈리스트에 있는 정보들 중에서, 가장 좋은후보를 빠르게 뽑아오기 위한 도구
+            PriorityQueue<PQNode> pq = new PriorityQueue<PQNode>();
+
+            // 시작점 발견(예약 진행)
+            open[PosY, PosX] = Math.Abs(_board.DestY - PosY) + Math.Abs(_board.DestX - PosX);
+            pq.Push(new PQNode() { F = Math.Abs(_board.DestY - PosY) + Math.Abs(_board.DestX - PosX), G = 0, Y = PosY, X = PosX});
+            while (true)
+            {
+                // 제일 좋은 후보를 찾는다.
+            }
+
 
         }
 

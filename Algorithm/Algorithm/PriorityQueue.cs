@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics.CodeAnalysis;
 
-namespace Excercise_PrioityQueue
+namespace Algorithm
 {
-
     class PriorityQueue<T> where T : IComparable<T>
     {
 
@@ -46,7 +44,7 @@ namespace Excercise_PrioityQueue
 
             //역으로 내려가는 도장깨기 시작
             int now = 0;
-            while(true)
+            while (true)
 
             {
                 int left = 2 * now + 1;
@@ -75,42 +73,7 @@ namespace Excercise_PrioityQueue
 
             return ret;
         }
-        public int Count()
-        {
-
-            return _heap.Count;
-        }
-    }
-
-    class Knight : IComparable<Knight>
-    {
-        public int Id { get; set; }
-
-        public int CompareTo(Knight other)
-        {
-            if (Id == other.Id)
-                return 0;
-
-            return Id > other.Id ? 1 : -1;
-        }
-    }
-
-
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            PriorityQueue<Knight> q = new PriorityQueue<Knight>();
-            q.Push(new Knight() { Id = 20 });
-            q.Push(new Knight() { Id = 30 });
-            q.Push(new Knight() { Id = 40 });
-            q.Push(new Knight() { Id = 10 });
-            q.Push(new Knight() { Id = 50 });
-
-            while (q.Count() > 0)
-            {
-                Console.WriteLine(q.Pop().Id);
-            }
-        }
+        public int Count { get { return _heap.Count; } }
+        
     }
 }

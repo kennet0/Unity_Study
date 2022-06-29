@@ -1,16 +1,19 @@
-﻿<Properties StartupConfiguration="{5FAC1A1E-FF49-49EB-B3DA-07E762B25659}|Default">
-  <MonoDevelop.Ide.ItemProperties.Excercise__PrioityQueue FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Excercise_PrioityQueue/Program.cs">
+﻿<Properties StartupConfiguration="{A77AB09B-2C79-4FF5-8FC8-6344CAD5C851}|Default">
+  <MonoDevelop.Ide.ItemProperties.Excercise__PrioityQueue PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Algorithm/Algorithm/Player.cs">
     <Files>
-      <File FileName="Excercise_PrioityQueue/Program.cs" Line="1" Column="1" />
+      <File FileName="Excercise_PrioityQueue/Program.cs" Line="8" Column="5" />
+      <File FileName="../Algorithm/Algorithm/PriorityQueue.cs" Line="76" Column="25" />
+      <File FileName="../Algorithm/Algorithm/Player.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Excercise_PrioityQueue" expanded="True">
-            <Node name="Excercise_PrioityQueue" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="Algorithm" expanded="True">
+              <Node name="Player.cs" selected="True" />
             </Node>
+            <Node name="Excercise_PrioityQueue" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -19,6 +22,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Algorithm PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
