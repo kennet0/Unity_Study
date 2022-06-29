@@ -1,0 +1,13 @@
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Exercise_Tree/Exercise_Tree/bin/Debug/netcoreapp3.1/Exercise_Tree.deps.json
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Exercise_Tree/Exercise_Tree/bin/Debug/netcoreapp3.1/Exercise_Tree.runtimeconfig.json
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Exercise_Tree/Exercise_Tree/bin/Debug/netcoreapp3.1/Exercise_Tree.runtimeconfig.dev.json
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Exercise_Tree/Exercise_Tree/bin/Debug/netcoreapp3.1/Exercise_Tree.dll
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Exercise_Tree/Exercise_Tree/bin/Debug/netcoreapp3.1/Exercise_Tree.pdb
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Exercise_Tree/Exercise_Tree/obj/Debug/netcoreapp3.1/Exercise_Tree.csproj.AssemblyReference.cache
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Exercise_Tree/Exercise_Tree/obj/Debug/netcoreapp3.1/Exercise_Tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Exercise_Tree/Exercise_Tree/obj/Debug/netcoreapp3.1/Exercise_Tree.AssemblyInfoInputs.cache
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Exercise_Tree/Exercise_Tree/obj/Debug/netcoreapp3.1/Exercise_Tree.AssemblyInfo.cs
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Exercise_Tree/Exercise_Tree/obj/Debug/netcoreapp3.1/Exercise_Tree.csproj.CoreCompileInputs.cache
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Exercise_Tree/Exercise_Tree/obj/Debug/netcoreapp3.1/Exercise_Tree.dll
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Exercise_Tree/Exercise_Tree/obj/Debug/netcoreapp3.1/Exercise_Tree.pdb
+/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Exercise_Tree/Exercise_Tree/obj/Debug/netcoreapp3.1/Exercise_Tree.genruntimeconfig.cache
