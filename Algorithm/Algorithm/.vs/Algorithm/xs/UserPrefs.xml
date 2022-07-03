@@ -1,18 +1,21 @@
-﻿<Properties StartupConfiguration="{DF3F4D14-EF7A-4D21-8AC9-8F22353B0C33}|Default">
+﻿<Properties StartupConfiguration="{530F9496-4ABA-4BA6-B0C4-D180C0548E60}|Default">
   <MonoDevelop.Ide.ItemProperties.Excercise PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../Excercise/Excercise/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Player.cs">
     <Files>
       <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="Board.cs" />
-      <File FileName="Player.cs" />
-      <File FileName="../../Excercise/Excercise/Program.cs" Line="68" Column="26" />
+      <File FileName="Board.cs" Line="1" Column="1" />
+      <File FileName="Player.cs" Line="94" Column="1" />
+      <File FileName="../../Excercise/Excercise/Program.cs" Line="127" Column="1" />
+      <File FileName="PriorityQueue.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Algorithm" expanded="True">
-            <Node name="Algorithm" expanded="True" />
-            <Node name="Excercise" expanded="True" selected="True" />
+            <Node name="Algorithm" expanded="True">
+              <Node name="Player.cs" selected="True" />
+            </Node>
+            <Node name="Excercise" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -29,9 +32,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/janghan/Desktop/GitHubDesktop/Unity_Study/Excercise/Excercise/Program.cs" line="126" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
