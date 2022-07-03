@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{530F9496-4ABA-4BA6-B0C4-D180C0548E60}|Default">
+  <MonoDevelop.Ide.ItemProperties.Excercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Player.cs">
+    <Files>
+      <File FileName="Program.cs" Line="28" Column="40" />
+      <File FileName="Board.cs" Line="187" Column="28" />
+      <File FileName="Player.cs" Line="242" Column="16" />
+      <File FileName="../../Excercise/Excercise/Program.cs" Line="127" Column="1" />
+      <File FileName="PriorityQueue.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Algorithm" expanded="True">
+            <Node name="Algorithm" expanded="True">
+              <Node name="Player.cs" selected="True" />
+            </Node>
+            <Node name="Excercise" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>distance</Value>
+          <Value>distance</Value>
+          <Value>parent</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Algorithm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
