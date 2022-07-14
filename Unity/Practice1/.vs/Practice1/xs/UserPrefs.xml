@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{E6F3BCDA-3F63-89C3-8B17-47D431E266B0}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controllers/CameraController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controllers/PlayerController.cs">
     <Files>
-      <File FileName="Assets/Scripts/TestCollision.cs" Line="26" Column="28" />
       <File FileName="Assets/Scripts/Managers/Managers.cs" />
       <File FileName="Assets/Scripts/Managers/ResourceManager.cs" />
-      <File FileName="Assets/Scripts/Managers/InputManager.cs" />
+      <File FileName="Assets/Scripts/Managers/InputManager.cs" Line="9" Column="16" />
       <File FileName="Assets/Scripts/Controllers/CameraController.cs" Line="34" Column="24" />
-      <File FileName="Assets/Scripts/Utils/Define.cs" Line="9" Column="21" />
+      <File FileName="Assets/Scripts/Utils/Define.cs" Line="13" Column="27" />
+      <File FileName="Assets/Scripts/Controllers/PlayerController.cs" Line="79" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
                 <Node name="Controllers" expanded="True">
-                  <Node name="CameraController.cs" selected="True" />
+                  <Node name="PlayerController.cs" selected="True" />
                 </Node>
                 <Node name="Managers" expanded="True" />
                 <Node name="Utils" expanded="True" />
@@ -35,7 +35,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="adccb020-1f5f-420f-b4e8-6d9643afa8d1" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d9252a4b-aa38-4c54-bdc6-06047072364e" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

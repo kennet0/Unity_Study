@@ -348,7 +348,6 @@
 "Assets/Scripts/Managers/InputManager.cs"
 "Assets/Scripts/Managers/Managers.cs"
 "Assets/Scripts/Managers/ResourceManager.cs"
-"Assets/Scripts/TestCollision.cs"
 "Assets/Scripts/Utils/Define.cs"
 -langversion:9.0
 
