@@ -3,10 +3,10 @@
     <Files>
       <File FileName="Assets/Scripts/Managers/Managers.cs" Line="32" Column="31" />
       <File FileName="Assets/Scripts/Managers/ResourceManager.cs" />
-      <File FileName="Assets/Scripts/Managers/InputManager.cs" Line="8" Column="14" />
+      <File FileName="Assets/Scripts/Managers/InputManager.cs" />
       <File FileName="Assets/Scripts/Controllers/CameraController.cs" />
       <File FileName="Assets/Scripts/Utils/Define.cs" />
-      <File FileName="Assets/Scripts/Controllers/PlayerController.cs" Line="52" Column="1" />
+      <File FileName="Assets/Scripts/Controllers/PlayerController.cs" Line="54" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -35,7 +35,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b967e0c7-d49d-420b-872a-a7ca9cdaf7f4" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b45e2fd9-7409-4873-862a-8b43c78187ff" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
